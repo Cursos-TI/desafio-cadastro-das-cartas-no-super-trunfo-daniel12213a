@@ -1,5 +1,8 @@
 #include <stdio.h>
-
+//Todo jogo de super trunfo foi feito pelo meu vscode testado, apos copiei e colei no github 
+//ele consiste em te perguntar quais informacoes tem sua carta numero 1 e depois a carta 2, ele atualiza com todas suas informacoes da carta 1
+// e depois atualiza todas informacoes da carta 2 
+// ele nao compara as cartas
 int main() {
 
 char estado1[30], estado2[30];
