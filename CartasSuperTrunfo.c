@@ -67,11 +67,5 @@ printf("\n\nCodigo da carta1:%s\nNome da cidade1:%s\nEstado1:%s\nPolulacao1:%d\n
 //resultado2
 printf("\n\nCodigo da carta2:%s\nNome da cidade2:%s\nEstado2:%s\nPolulacao2:%d\nArea2 em km:%.3f\nPIB2:%.3f\nPontos2 turisticos:%d\n\n", codigo2, nome2, estado2, populacao2, area2, pib2, pontos2);
 
-
-
-
-
-
-
 return 0;
 }
